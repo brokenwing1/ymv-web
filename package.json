@@ -1,0 +1,13 @@
+{
+  "name": "ymv-painting-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YMV Painting Lab — демонстрационный сайт кузовной студии",
+  "scripts": {
+    "dev": "node tools/server.mjs",
+    "start": "node tools/server.mjs",
+    "build": "node tools/build.mjs",
+    "check": "node tools/check.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
